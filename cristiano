@@ -1,3 +1,6 @@
+SACAR LISTA M3U8 DE AQUI https://www.cxtvenvivo.com/tv/categorias/evangelico
+
+
 #EXTM3U
 
 #EXTINF:-1,HOSANA VICION
@@ -12,10 +15,8 @@ https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/bright
 #EXTINF:-1, VIDA (EABN)
 https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 
-
 #EXTINF:-1, SOPHIA TV
 https://www.onairport.live/sophiatv-es-live/livestream/.m3u8
-
 
 #EXTINF:-1,  ALIENTO Vicion
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
@@ -55,3 +56,39 @@ https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
 #EXTINF:-1,  Palabra de Dios Sin Levadura
 https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w204808202.m3u8
+
+#EXTINF:-1,  AMOR Y VIDA TV
+https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w634519189.m3u8
+
+#EXTINF:-1, MINISTERIOS EBENEZER
+https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w2128641698.m3u8
+
+#EXTINF:-1, 24 Horas de Películas
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w515488447.m3u8
+
+#EXTINF:-1, Tu Universo Tv
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w1285650014.m3u8
+
+#EXTINF:-1, JBN TV
+https://emisoras.hn:8081/jbn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Televida
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
+#EXTINF:-1, Extrema TV
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1316636709.m3u8
+
+#EXTINF:-1, RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+#EXTINF:-1, Alcance Tv
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w32607663.m3u8
+
+#EXTINF:-1, Salvacion TV
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/chunklist_w1938211706_b700000.m3u8
+
+#EXTINF:-1, AVIVAMIENTO CCE TV
+https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w1219622467.m3u8
+
+#EXTINF:-1, Presencia Tv
+https://5bf8041cb3fed.streamlock.net/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w1052272553.m3u8
