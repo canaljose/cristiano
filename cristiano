@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1,HOSANA VICION
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ENLACE
+https://player-api.new.livestream.com/accounts/27460990/events/8266905/broadcasts/231164413.m3u8
+
+#EXTINF:-1, LLBN
+https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
+
+#EXTINF:-1, VIDA (EABN)
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
+
+
+#EXTINF:-1, SOPHIA TV
+https://www.onairport.live/sophiatv-es-live/livestream/.m3u8
+
+
+#EXTINF:-1,  ALIENTO HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8 
+
+#EXTINF:-1,  3ABNC
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#EXTINF:-1,  BETHEL
+https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8?
+
+#EXTINF:-1,  ABN (AVI
+https://s2.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=39323525
+
+#EXTINF:-1,  CBN
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1,  CTNI
+https://584097344c1f0.streamlock.net/48/48.smil/.m3u8
+
+#EXTINF:-1,  ESPERANZA TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
+
+#EXTINF:-1,  STV (Señales)
+https://live.teledom.info:4000/live/senalestvlive.m3u8
+
+#EXTINF:-1,  HILSSONG INGLES
+https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231156316.m3u8
+
+#EXTINF:-1,  EJTV
+https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231156316.m3u8
+
+#EXTINF:-1,  TCI
+https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/231157880.m3u8
