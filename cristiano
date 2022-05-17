@@ -17,17 +17,14 @@ https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 https://www.onairport.live/sophiatv-es-live/livestream/.m3u8
 
 
-#EXTINF:-1,  ALIENTO HD
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8 
+#EXTINF:-1,  ALIENTO Vicion
+https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
 #EXTINF:-1,  3ABNC
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #EXTINF:-1,  BETHEL
-https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8
-
-#EXTINF:-1,  ABN (AVI
-https://s2.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=39323525
+https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8?
 
 #EXTINF:-1,  CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
@@ -49,3 +46,12 @@ https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcast
 
 #EXTINF:-1,  TCI
 https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/231157880.m3u8
+
+#EXTINF:-1,  ALERTA TV
+https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w138271663.m3u8
+
+#EXTINF:-1,  Avivamiento TV
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1,  Palabra de Dios Sin Levadura
+https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w204808202.m3u8
