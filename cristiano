@@ -19,7 +19,7 @@ https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://streann.akamaized.net/upload2/1582907702290.png"group-title="España",BETHEL
-https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/master.m3u8?customtoken=485fc14c-0453-4fd7-8150-f225d5dde1bc&hdnts=exp=1653540399~acl=*~hmac=c19a9d69157a61c72911111646e20f89df6934fde56c2eef4e90f8061da67542&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5e00e27f2cdcb4fdbcd783c8
+https://streannlive-lh.akamaihd.net/i/bethelmusicales_1@355207/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1653628500~acl=*~data=hdntl~hmac=bd7962e58b2c2ae3a05ec872477cf072ef49bb021b6e24236495389ebb936dd1
 
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp"group-title="España",CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
@@ -85,4 +85,4 @@ https://5bf8041cb3fed.streamlock.net/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist
 https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231359904.secure.m3u8?dw=14400&hdnea=st%3D1653540148~exp%3D1653541948~acl%3D%2Fi%2F27460990_8266929_lsia7bdvwjlo9hsneay_1%40408218%2F%2A~hmac%3D8083e93fbe4c5b717a1ce24fb1b9cd706fe4dae4238dcb9bea8b69c94235a259&token=628f0660_e3d60c137292bc9e75ab7378ca266465c4912ce8
 
 #EXTINF:-1, #EXTINF:-1, Enlace 
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+https://www.betheltv.tv/player/channel/5e068c682cdcf6f83b7a15a7?isFromTabLayout=true
