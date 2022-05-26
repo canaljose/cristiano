@@ -3,89 +3,80 @@
 #EXTINF:-1,#EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4c4a6f5b69f0b343309e30e2637d657.webp"group-title="España",HOSANA VICION
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,ENLACE
-https://componentes.enlace.org/live/
-
-#EXTINF:-1, LLBN
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-llbn-chinese-christian-tv-5153.jpg"group-title="España",LLBN
 https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
 
-#EXTINF:-1, VIDA (EABN)
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sjiZ4VlqzgpgfzO3aAA5r9jfUUphug1WnHwOjiGQpvdybddJ3VseIh2xvZK6bL5u31M&usqp=CAU"group-title="España",VIDA (EABN)
 https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 
-#EXTINF:-1, SOPHIA TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo=""group-title="España",SOPHIA TV
 https://www.onairport.live/sophiatv-es-live/livestream/.m3u8
 
-#EXTINF:-1,  ALIENTO Vicion
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17e5c0bcf00da9d198216623fee9fc7e.webp"group-title="España",ALIENTO Vicion
 https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
-#EXTINF:-1,  3ABNC
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b55ad733d24c195a33749faea9f93322.webp"group-title="España",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
-#EXTINF:-1,  BETHEL
+#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",BETHEL
 https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8?
 
-#EXTINF:-1,  CBN
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp"group-title="España",CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1,  CTNI
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/skRfevf6OaFMMsR_Lu2k6ZFSR1bQK4SeuGDIwT8cgQGXs6vpx548jvA1EA7UuRAGh-M"group-title="España",CTNI
 https://584097344c1f0.streamlock.net/48/48.smil/.m3u8
 
-#EXTINF:-1,  ESPERANZA TV
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/17/89/e3/1789e30a1be280cff5928b145c6265c6.jpg"group-title="España",ESPERANZA TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 
-#EXTINF:-1,  STV (Señales)
+#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",STV (Señales)
 https://live.teledom.info:4000/live/senalestvlive.m3u8
 
-#EXTINF:-1,  HILSSONG INGLES
-https://player-api.new.livestream.com/accounts/27460990/events/8266909/broadcasts/231163787.secure.m3u8
-
-#EXTINF:-1,  EJTV
-https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231156316.m3u8
-
-#EXTINF:-1,  TCI
+#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",TCI
 https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/231157880.m3u8
 
-#EXTINF:-1,  ALERTA TV
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/10f92b45f2bece4d78686610fdf8e0f0.webp"group-title="España",ALERTA TV
 https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w138271663.m3u8
 
-#EXTINF:-1,  Avivamiento TV
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/__5AXwV_Q_a6SZPv1APHeXAozeR_nVFvtsh5igR2d6d6WJ586OzHlGNu-8aPhrkHLXMB"group-title="España",Avivamiento TV
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
 
-#EXTINF:-1,  Palabra de Dios Sin Levadura
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/52/67/8c/52678cc5-6fcc-731d-34fe-b6221beb714c/pr_source.png/1024x1024bb.png"group-title="España",Palabra de Dios Sin Levadura
 https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w204808202.m3u8
 
-#EXTINF:-1,  AMOR Y VIDA TV
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da1ac6a713ea63fa16f8cdf6f0571e4d.webp"group-title="España",AMOR Y VIDA TV
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w634519189.m3u8
 
-#EXTINF:-1, MINISTERIOS EBENEZER
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/1_vG3UbswyCc03UmwOevaI8Ooi9LEW4895n4bQr7nXwi4tptvMOXB3VkOu-xv_hO-Tc"group-title="España",MINISTERIOS EBENEZER
 https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w2128641698.m3u8
 
-#EXTINF:-1, 24 Horas de Películas
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://image.roku.com/developer_channels/prod/a89ffd8c168b104e67d447e362094177149c70988a62c04e18b9c32c26e36fe5.png"group-title="España",24 Horas de Películas
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w515488447.m3u8
 
-#EXTINF:-1, Tu Universo Tv
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp"group-title="España",Tu Universo Tv
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w1285650014.m3u8
 
-#EXTINF:-1, JBN TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d757302920bf10273df6534843fb00f.webp"group-title="España",JBN TV
 https://emisoras.hn:8081/jbn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Televida
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp"group-title="España",Televida
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
-#EXTINF:-1, Extrema TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85d0fd3f9dab2acb467c4aca607c9764.webp"group-title="España",Extrema TV
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1316636709.m3u8
 
-#EXTINF:-1, RTV Vida
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8be28637c1e71565a8c2255436f87bbc.webp"group-title="España",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
-#EXTINF:-1, Alcance Tv
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/932668795331547137/9hcaywDp_400x400.jpg"group-title="España",Alcance Tv
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w32607663.m3u8
 
-#EXTINF:-1, Salvacion TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de9ef5dff646a23f7320eda7db3fda5c.webp"group-title="España",Salvacion TV
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/chunklist_w1938211706_b700000.m3u8
 
-#EXTINF:-1, AVIVAMIENTO CCE TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23b94258ba98a26b602a2b261b046bd3.webp"group-title="España",AVIVAMIENTO CCE TV
 https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w1219622467.m3u8
 
-#EXTINF:-1, Presencia Tv
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc474702a05c6c10c7186d240a664e28.webp"group-title="España",Presencia Tv
 https://5bf8041cb3fed.streamlock.net/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w1052272553.m3u8
