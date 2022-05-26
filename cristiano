@@ -9,7 +9,7 @@ https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/bright
 #EXTINF:-1, #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sjiZ4VlqzgpgfzO3aAA5r9jfUUphug1WnHwOjiGQpvdybddJ3VseIh2xvZK6bL5u31M&usqp=CAU"group-title="España",VIDA (EABN)
 https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 
-#EXTINF:-1, #EXTINF:-1, tvg-logo=""group-title="España",SOPHIA TV
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://image.roku.com/developer_channels/prod/a873eba7ed7fa80204b4729aacdd8d334a526c7a832cb35b061cf0c67f46257d.png"group-title="España",SOPHIA TV
 https://www.onairport.live/sophiatv-es-live/livestream/.m3u8
 
 #EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17e5c0bcf00da9d198216623fee9fc7e.webp"group-title="España",ALIENTO Vicion
@@ -18,8 +18,8 @@ https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b55ad733d24c195a33749faea9f93322.webp"group-title="España",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 
-#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",BETHEL
-https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8?
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://streann.akamaized.net/upload2/1582907702290.png"group-title="España",BETHEL
+https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/master.m3u8?customtoken=485fc14c-0453-4fd7-8150-f225d5dde1bc&hdnts=exp=1653540399~acl=*~hmac=c19a9d69157a61c72911111646e20f89df6934fde56c2eef4e90f8061da67542&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5e00e27f2cdcb4fdbcd783c8
 
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp"group-title="España",CBN
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
@@ -30,10 +30,10 @@ https://584097344c1f0.streamlock.net/48/48.smil/.m3u8
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/17/89/e3/1789e30a1be280cff5928b145c6265c6.jpg"group-title="España",ESPERANZA TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/manifest.m3u8
 
-#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",STV (Señales)
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://i.pinimg.com/474x/f7/9c/13/f79c1391c1dd5a0b3ce7623b595e98be.jpg"group-title="España",STV (Señales)
 https://live.teledom.info:4000/live/senalestvlive.m3u8
 
-#EXTINF:-1,  #EXTINF:-1, tvg-logo=""group-title="España",TCI
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1397967937496137729/0pT2H0gU_400x400.png"group-title="España",TCI
 https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/231157880.m3u8
 
 #EXTINF:-1,  #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/10f92b45f2bece4d78686610fdf8e0f0.webp"group-title="España",ALERTA TV
@@ -80,3 +80,9 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w1219622467
 
 #EXTINF:-1, #EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc474702a05c6c10c7186d240a664e28.webp"group-title="España",Presencia Tv
 https://5bf8041cb3fed.streamlock.net/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w1052272553.m3u8
+
+#EXTINF:-1, #EXTINF:-1, tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/ea/d6/71/ead67195-79d8-bc0a-659b-a089c5db9414/source/512x512bb.jpg"group-title="España",EJTV
+https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231359904.secure.m3u8?dw=14400&hdnea=st%3D1653540148~exp%3D1653541948~acl%3D%2Fi%2F27460990_8266929_lsia7bdvwjlo9hsneay_1%40408218%2F%2A~hmac%3D8083e93fbe4c5b717a1ce24fb1b9cd706fe4dae4238dcb9bea8b69c94235a259&token=628f0660_e3d60c137292bc9e75ab7378ca266465c4912ce8
+
+#EXTINF:-1, #EXTINF:-1, Enlace 
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
