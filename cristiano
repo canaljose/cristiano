@@ -84,5 +84,5 @@ https://5bf8041cb3fed.streamlock.net/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist
 #EXTINF:-1, #EXTINF:-1, tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/ea/d6/71/ead67195-79d8-bc0a-659b-a089c5db9414/source/512x512bb.jpg"group-title="España",EJTV
 https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231359904.secure.m3u8?dw=14400&hdnea=st%3D1653540148~exp%3D1653541948~acl%3D%2Fi%2F27460990_8266929_lsia7bdvwjlo9hsneay_1%40408218%2F%2A~hmac%3D8083e93fbe4c5b717a1ce24fb1b9cd706fe4dae4238dcb9bea8b69c94235a259&token=628f0660_e3d60c137292bc9e75ab7378ca266465c4912ce8
 
-#EXTINF:-1, #EXTINF:-1, Enlace 
-https://www.betheltv.tv/player/channel/5e068c682cdcf6f83b7a15a7?isFromTabLayout=true
+#EXTINF:-1, Enlace 
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
