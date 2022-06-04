@@ -90,3 +90,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1302037953.m3u8
 
 #EXTINF:-1, #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/RHwAeznUlkg/maxresdefault.jpg"group-title="España",Enlace 
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="EJTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+
