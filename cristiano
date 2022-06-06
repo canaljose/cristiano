@@ -92,7 +92,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1302037953.m3u8
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV)
-https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231539871.secure.m3u8
 
 
 
