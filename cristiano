@@ -88,6 +88,9 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1302037953.m3u8
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/RHwAeznUlkg/maxresdefault.jpg"group-title="España",Enlace 
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b76700d635ef6272ba8cc8e9c7733f59.webp" group-title="TVCRISTIANO",ABN
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV)
 https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/231539871.secure.m3u8
 
